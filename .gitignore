@@ -1,0 +1,12 @@
+# Windows
+*.exe
+*.dll
+*.lib
+
+# Linux
+*.elf
+*.so
+*.a
+
+# CXX
+*.o
